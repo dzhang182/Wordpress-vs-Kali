@@ -34,10 +34,6 @@ Time spent: **10** hours spent in total
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/changeset/36185)
 
-## Assets
-
-List any additional assets, such as scripts or files
-
 ## Resources
 
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
